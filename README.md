@@ -15,20 +15,17 @@ sources can be broadly classified into two types: AGNs and pulsars. The pulsars
 can be further classified as millisecond pulsars or young pulsars. Similarly some
 common types of AGNs include quasars, Seyfert galaxies, and blazars.
 
-Dataset used-"https://drive.google.com/file/d/1jT5xUChHw_HSILlUJ5UVueVJ4GzfF_tq/view?usp=share_link"
 
 ## Task 1
 
 Train a model to classify different types of Gamma-ray Sources.
 We have used a logistic regression model to classify all the sub categories of pulsars and AGNs 
-"https://drive.google.com/file/d/1QTUzUuZ9V36xvyw6_yslouFLeaZJwZwg/view?usp=share_link"
 
 
 ## Task 2
 
 Create a sky map of the classified sources.
 Skymap plottted using astropy.
-"https://drive.google.com/file/d/1yY9ttc_bWR1fwtiAezEKy2BtJPWRmMrB/view?usp=share_link"
 
 
 ## How to Run
