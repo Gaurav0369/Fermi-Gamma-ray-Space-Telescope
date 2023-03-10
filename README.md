@@ -1,4 +1,4 @@
-# Problem Statement A
+# Gamma-ray Sources Classification and Skymap
 
 ## Introduction 
 
